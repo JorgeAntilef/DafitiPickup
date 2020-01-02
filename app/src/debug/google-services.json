@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "132058192955",
+    "firebase_url": "https://dafiti-3da48.firebaseio.com",
+    "project_id": "dafiti-3da48",
+    "storage_bucket": "dafiti-3da48.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:132058192955:android:f9d6d9e43e5eb850",
+        "android_client_info": {
+          "package_name": "com.example.josimargonzalez.Dafiti_pickup"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "132058192955-59umec4h50j7vs45qo3s7sddmp4ftra2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.josimargonzalez.Dafiti_pickup",
+            "certificate_hash": "aa93b2ad89be728a20814897ede37558d073ee4d"
+          }
+        },
+        {
+          "client_id": "132058192955-c9e1a4dr13prbbmbisrhpn3lq4t7u4a4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyABA3g1JJmLzZA_Aj7pMYYJCbgWMwrfzYk"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "132058192955-c9e1a4dr13prbbmbisrhpn3lq4t7u4a4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
